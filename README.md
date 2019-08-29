@@ -2,7 +2,7 @@
 
 ### Outline
 The source for this is contained in `jump.go`. To run (after installing Go)
-`go build . && go run jump.go`
+`go run jump.go`
 
 To Test:
 `go test -v`
